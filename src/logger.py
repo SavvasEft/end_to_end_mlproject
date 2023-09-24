@@ -18,5 +18,6 @@ def setup_logger():
 
 setup_logger()
 
-if __name__ == "__main__":
-    logging.info('Logging has started')
+# used for testing purposes:
+# if __name__ == "__main__":
+#     logging.info('Logging has started')
